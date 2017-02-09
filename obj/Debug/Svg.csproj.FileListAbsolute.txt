@@ -7,3 +7,5 @@ C:\cmd\Minerva\Svg\Svg.pdb
 C:\cmd\Minerva\Svg\SkiaSharp.dll
 C:\cmd\Minerva\Svg\SkiaSharp.xml
 C:\cmd\Minerva\Svg\obj\Debug\Svg.csprojResolveAssemblyReference.cache
+C:\Users\brett\Documents\Svg.SkiaSharp\obj\Debug\Svg.dll
+C:\Users\brett\Documents\Svg.SkiaSharp\obj\Debug\Svg.pdb
