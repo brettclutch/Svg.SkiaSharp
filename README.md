@@ -26,6 +26,9 @@ Does not support
 • Filters 'blur, bevel, drop shadow, glow' (Internally the library has some support to handle it at the bitmap level, but it should be refactored to handle it with SkiaSharp)
 • Texture images
 
+Example Video of a Test Case:
+https://www.screencast.com/t/VIOf2h9e1hDE
+
 Example Use:
 
 using Svg.SkiaSharp; 
