@@ -23,14 +23,15 @@ Iffy Support (Havn't fully tested but in theory could work)
 * Clipping and Masking
 
 Does not support
-• Filters 'blur, bevel, drop shadow, glow' (Internally the library has some support to handle it at the bitmap level, but it should be refactored to handle it with SkiaSharp)
-• Texture images
 
-Example Video of a Test Case:
+* Filters 'blur, bevel, drop shadow, glow' (Internally the library has some support to handle it at the bitmap level, but it should be refactored to handle it with SkiaSharp)
+
+Example Video of a test render case:
 https://www.screencast.com/t/VIOf2h9e1hDE
 
 Example Use:
 
+```c#
 using Svg.SkiaSharp; 
 using SkiaSharp; 
 
@@ -51,3 +52,4 @@ if (svgcache == null)
 
 //Draw the 'cached' Picture to the render canvas you have setup. 
 canvas.DrawPicture(svgcache);
+```
