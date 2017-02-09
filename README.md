@@ -1,7 +1,7 @@
 # Svg.SkiaSharp
 .Net 4.6.1 SkiaSharp renderer -> Waiting for .net standard 2.0 for full crossplatform
 
-This is a fork of the SkiaSharp branch from https://github.com/gentledepp/SVG/tree/skiasharp 
+This is a fork of the SkiaSharp branch from https://github.com/gentledepp/SVG/tree/skiasharp available under Microsoft Public License: https://svg.codeplex.com/license
 
 It has been re-factored for simplicity and ease of use, currently setup as a .net 4.6.1 project and awaiting .net standard 2.0 for cross platform 'ability'.
 
