@@ -1,0 +1,9 @@
+C:\cmd\vvvv\public\common\src\thirdparty\Svg.dll
+C:\cmd\vvvv\public\common\src\thirdparty\Svg.pdb
+C:\cmd\Minerva\Svg\obj\Debug\Svg.dll
+C:\cmd\Minerva\Svg\obj\Debug\Svg.pdb
+C:\cmd\Minerva\Svg\Svg.dll
+C:\cmd\Minerva\Svg\Svg.pdb
+C:\cmd\Minerva\Svg\SkiaSharp.dll
+C:\cmd\Minerva\Svg\SkiaSharp.xml
+C:\cmd\Minerva\Svg\obj\Debug\Svg.csprojResolveAssemblyReference.cache
